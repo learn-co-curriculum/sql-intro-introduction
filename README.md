@@ -1,16 +1,21 @@
-# Title
+# Introduction to Getting Started with SQL
 
-## Learning Goals
+Just as humans have brains, and computers have hard drives that store
+information, most programs have a storage system that needs to be communicated
+with. How do we store and find stored data? In databases, and using SQL. It can
+be used with a ton of different databases like MySQL, Postgres, etc. It powers
+the logic behind server-side frameworks. SQL has many variations, like SQLite,
+but the fundamentals stay the same.
 
--SWBAT 1
--SWBAT 2
+In the next several lessons, we're going to learn:
 
-## Introduction
+* What SQL is
+* How to create and open a database file and table
+* The three specific SQLite database types
+* What "single source of truth" means in the context of object associations
+* Executing SQL code
+* How to create advanced queries using aggregator functions
+* Relational database mapping in object-oriented programming
 
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+In this section, you'll learn how to find information associated with particular
+criteria and how to create and manipulate data.
